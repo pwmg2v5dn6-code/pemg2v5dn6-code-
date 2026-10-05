@@ -66,11 +66,6 @@ Ingrese la nota 10 (0-100): 88
 La suma de las notas es: 833
 El promedio del estudiante es: 83.30
 ```
-
-## Captura de pantalla
-
-> Agrega aquí una captura de pantalla de tu programa funcionando, por ejemplo: `![Captura del programa](captura.png)`
-
 ## Qué aprendí
 
 - Uso de entrada y salida en C con `printf` y `scanf`.
