@@ -47,7 +47,7 @@ Soy un joven panameño de 18 años apasionado por la tecnología, las redes y la
 | Proyecto | Descripción |
 |----------|-------------|
 | [Promedio de Notas en C](https://github.com/pwmg2v5dn6-code/promedio-notas-c) | Programa en C que pide 10 notas, valida que estén entre 0 y 100 y calcula la suma y el promedio |
-| [Control de Asistencia en C](https://github.com/pwmg2v5dn6-code/asistencia-c) | Programa en C que calcula el porcentaje de asistencia de un estudiante y determina si cumple con el 50% mínimo |
+| [Control de Asistencia en C](https://github.com/pwmg2v5dn6-code/pemg2v5dn6-code-/blob/main/asistencia.c) | Programa en C que calcula el porcentaje de asistencia de un estudiante y determina si cumple con el 50% mínimo |
 
 ---
 
